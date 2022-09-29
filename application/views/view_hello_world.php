@@ -12,7 +12,6 @@
      <h1>Biodata</h1>
      <h2>Nama : Robi Aziz Zuama</h2><br>
      <h2>Alamat : Mustika Jaya</h2><br>
-     <h2></h2>
 </body>
 
 </html>
